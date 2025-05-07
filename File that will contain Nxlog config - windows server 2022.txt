@@ -1,0 +1,1 @@
+File that will contain Nxlog config (Windows server 2022)

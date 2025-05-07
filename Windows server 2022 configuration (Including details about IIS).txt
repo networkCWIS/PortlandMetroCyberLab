@@ -1,0 +1,1 @@
+Windows server 2022 configuration (Including details about IIS)

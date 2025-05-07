@@ -1,0 +1,5 @@
+Description of lab, 
+how to use kali to attack,
+graylog to view attacks, 
+alert, 
+how to mitigate the vulnerabilities.
